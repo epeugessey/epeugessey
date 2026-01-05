@@ -1,0 +1,7 @@
+{
+  "name": "Le Jardin de l'Espoir",
+  "description": "Un sanctuaire de paix et de solidarité pour les paranges (parents endeuillés), offrant un soutien empathique, un jardin mémoriel virtuel et une écoute attentive propulsée par l'IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
